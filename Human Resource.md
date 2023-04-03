@@ -86,13 +86,13 @@ HRMS software offers numerous benefits and features that can help businesses str
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HRMS automates many HR tasks, such as data entry, reporting, and compliance management, saving HR professionals time and reducing &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;the likelihood of costly errors. It also reduces paperwork, storage, and printing costs associated with manual HR processes.
 
 ### Increased Compliance
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HRMS ensures compliance with labor laws and regulations by automating compliance management processes, such as tracking hours &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;worked, managing benefits enrollment and administration, and updating employee records. It helps ensure that organizations stay &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; up-to-date with legislative compliance requirements.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HRMS ensures compliance with labor laws and regulations by automating compliance management processes, such as tracking hours &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;worked, managing benefits enrollment and administration, and updating employee records. It helps ensure that organizations stay <br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; up-to-date with legislative compliance requirements.
 
 ### Data Security
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HRMS provides secure data storage and access control features that ensure sensitive employee data is protected from unauthorized access or data breaches.
 
 ### Data-Driven Decisions
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HRMS generates reports and insights that enable HR professionals to make data-driven decisions. By analyzing employee data,&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HR professionals can identify trends, opportunities for improvement, and potential risks that may impact the organization's workforce.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HRMS generates reports and insights that enable HR professionals to make data-driven decisions. By analyzing employee data,<br> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; HR professionals can identify trends, opportunities for improvement, and potential risks that may impact the organization's workforce.
 
 ### Sustainable Scaling
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HRMS supports business growth by offering scalable solutions that can accommodate the organization's expanding workforce. It allows for &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;increased efficiency in managing employee data and automating HR tasks, reducing the need for additional HR staff as the company grows.
