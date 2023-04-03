@@ -29,9 +29,9 @@
 <p>
 The task consists of creating a database that contains two tables; employees and salaries which will be joined in view to better fetch information with the possiblity to update any given attribute. <br>
 
-config.js contains the database configuration; which should be updated according to your setting.
-queries.js contains all the sql queries.
-index.js contains the execution of these queries.
+config.js contains the database configuration; which should be updated according to your setting.<br>
+queries.js contains all the sql queries.<br>
+index.js contains the execution of these queries.<br>
 </p>
 
 
