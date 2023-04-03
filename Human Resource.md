@@ -12,9 +12,9 @@
 <ul>
     <li><a href="#introduction">Introduction  </a></li>
     <li><a href="#hrsystem">Human Resources Management Systems</a></li>
-    <li><a href="#Features and benefits">Features and benefits</a></li>
+    <li><a href="#featuresbenefits">Features and benefits</a></li>
     <li><a href="#ai">AI in HR Systems</a></li>
-    <li><a href="#Conclusion">Conclusion</a></li>
+    <li><a href="#conclusion">Conclusion</a></li>
 </ul>
 </details>
 
@@ -73,7 +73,7 @@ The workflow of an HR system typically includes the following subsections:
 </p>
 <br>
 
-## <a name="Features and benefits"></a>Features and benefits
+## <a name="featuresbenefits"></a>Features and benefits
 <br>
 <p>
 HRMS software offers numerous benefits and features that can help businesses streamline their HR operations and improve their overall efficiency. Some of the key benefits and features of HRMS include:
@@ -108,7 +108,7 @@ AI can also be used to automate routine HR tasks, such as scheduling interviews 
 </p>
 <br>
 
-## <a name="Conclusion"></a> Conclusion
+## <a name="conclusion"></a> Conclusion
 <br>
 <p>
 In conclusion, HRMS has become an essential tool for organizations to streamline their HR processes, allowing them to manage employee data, recruitment, onboarding, benefits administration, performance management, and training and development. It helps organizations to improve efficiency, increase productivity, and save time and resources.
