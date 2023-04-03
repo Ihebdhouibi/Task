@@ -25,19 +25,19 @@ pool.getConnection((err, connection) => {
 
   // filling up employees information
 
-  excuteQuery(connection, insertEmployee, [1, "safwene", null, "jlassi",
+  excuteQuery(connection, insertEmployee, [ "safwene", null, "jlassi",
     "TUN", "1998-04-02", "Fullstack dev", "142Reg8x"
     , null]);
 
-  excuteQuery(connection, insertEmployee, [2, "Ihab", null, "Dhouibi",
+  excuteQuery(connection, insertEmployee, [ "Ihab", null, "Dhouibi",
     "TUN", "1994-03-25", "Backend dev", "002Mary4"
     , null]);
 
   // filling up salaries information 
 
-  excuteQuery(connection, insertSalary, [1, 6.5, 150, 500, 7.150]);
+  excuteQuery(connection, insertSalary, [ 6.5, 150, 500, 7.150]);
 
-  excuteQuery(connection, insertSalary, [2, 3.5, 75, 300, 3.850]);
+  excuteQuery(connection, insertSalary, [ 3.5, 75, 300, 3.850]);
 
 
 
@@ -48,7 +48,16 @@ pool.getConnection((err, connection) => {
   updateAttribute("salaries", connection, "total_salary", 3.875, 2);
 
   // retrieve employee&salary information 
-  connection.query(retreiveEmployeeSalary)
+  connection.query(retreiveEmployeeSalary, (err, results) => {
+    if (err) {
+      console.log(`An error occured fetching rows: `,err);
+      return;
+    }
+    results.forEach((elm) => {
+      console.log(elm);
+    })
+    
+  })
 
 })
 
