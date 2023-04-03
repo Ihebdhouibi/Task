@@ -1,5 +1,5 @@
 
-<p align="center">  Human Resource Management Systems
+<p align="center"> <strong style="font-size: 20px;"> Human Resource Management Systems</strong>
 
 <div align="center">
     <hr width="100px">
